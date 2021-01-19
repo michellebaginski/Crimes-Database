@@ -1,0 +1,18 @@
+
+
+#appTitle {
+    -fx-text-fill: red;
+    -fx-font-size: 23px;
+}
+
+#pieTitle {
+    -fx-font-size: 17px;
+}
+
+#errorLabel {
+    fx-text-fill: red;
+}
+
+.table-row-cell {
+    -fx-cell-size: 35px;
+}
