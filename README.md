@@ -7,9 +7,9 @@ There are four files representing data from 2001-2017. My database uses all four
 IDE: IntelliJ IDEA 2018.3.3
 Language: Java 
 Libraries:
-1) JavaFX
-2) JDK 8
-3) MYSQL connector 8.0.221
+JavaFX
+JDK 8
+MYSQL connector 8.0.221
 Database: MySQL (used MySQLWorkbench)
 
 Setting up the project:
