@@ -34,27 +34,27 @@ c. Create the database schema in MySQLWorkbench:
 	- Please make sure the Datatypes for columns on all four datasets are as follows and import them into Workbench: 
 
 	MyUnknownColumn:				BIGINT
-	ID: 					          BIGINT
-	Case Number: 			    	TEXT
-	Date:					          TEXT
+	ID: 					        BIGINT
+	Case Number: 			    		TEXT
+	Date:					        TEXT
 	Block:				        	TEXT
-	IUCR:		 			          TEXT
-	Primary Type:				    TEXT
-	Description:				    TEXT
-	Location Description: 	TEXT
+	IUCR:		 			        TEXT
+	Primary Type:				    	TEXT
+	Description:				    	TEXT
+	Location Description: 				TEXT
 	Arrest:					        TEXT
 	Domestic:				        TEXT
-	Beat:					          INT
+	Beat:					        INT
 	District:				        DOUBLE
-	Ward:					          DOUBLE
-	Community Area:				  DOUBLE
+	Ward:					        DOUBLE
+	Community Area:				  	DOUBLE
 	FBI Code:				        TEXT
-	X Coordinate:				    DOUBLE
-	Y Coordinate:				    DOUBLE
-	Year:					          INT
-	Updated On:			      	TEXT
+	X Coordinate:				    	DOUBLE
+	Y Coordinate:				    	DOUBLE
+	Year:					        INT
+	Updated On:			      		TEXT
 	Latitude:				        DOUBLE
-	Longitude:			      	DOUBLE
+	Longitude:			      		DOUBLE
 	Location:				        TEXT
 
 	- Before running the application, make sure to navigate to the "DbConnect.java" file and
