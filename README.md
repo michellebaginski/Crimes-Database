@@ -1,4 +1,4 @@
-Steps To Running Application
+Steps To Run Application
 ---------------------------------------------------
 1. The link to download the data files can be found included here: https://www.kaggle.com/currie32/crimes-in-chicago?select=Chicago_Crimes_2008_to_2011.csv
 There are four files representing data from 2001-2017. My database uses all four of the files on the aforementioned link. The only thing you will need to do to download this data is to make an account with the website, then click the "Download" link at the top of the page or the down arrow.
